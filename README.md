@@ -1,4 +1,4 @@
-# MarlinFirmwareE3Pro
+# MarlinFirmwareEnder3Pro
 v4.2.7
 Configured E3Pro V4.2.7 board firmware with bltouch creality version
 Wiped and manually went through since standard firmware from creality was producing a bltouch error: error Details below
